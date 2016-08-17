@@ -4,7 +4,7 @@ third line
 我可以使用git了
 我新创建了一个分支dev
 Creating a new branch is quick AND simple
-
+使用分支开始合并的测试
 
 
 
